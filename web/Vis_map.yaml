@@ -1,0 +1,9 @@
+free_thresh: 0.196
+image: /home/yyang52/Downloads/heatmap/cropmap/Vis_map.pgm #change to your own path
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -5.0
+- -1.25
+- 0.0
+resolution: 0.05

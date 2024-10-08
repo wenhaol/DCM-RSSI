@@ -1,0 +1,129 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.detail-image {
+    width: 45%;
+    margin: 5px;
+    height: auto;
+}
+
+#image-display img {
+    width: 90%; 
+    max-width: 640px; /* Ensure it does not exceed a certain width, can be the same as heatmap for alignment */
+    display: flex;
+    flex-wrap: wrap; /* Wrap images if they don't fit in one line */
+    justify-content: center; /* Center images horizontally */
+    align-items: center; /* Center images vertically */
+    overflow: auto; /* Add scrollbars if content overflows */
+}
+
+#heatmap-container {
+    width: 640px; /* Or the width of your heatmap image */
+    height: 480px; /* Or the height of your heatmap image */
+    position: relative;
+    background-image: url('img.png'); 
+    margin-bottom: 20px;
+}
+
+
+.content {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+.heatmap-link {
+    display: inline-block;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline from links */
+    margin-top: 20px; /* Space above the link */
+}
+
+.heatmap-link:hover {
+    background-color: #0056b3; /* Slightly darker blue on hover */
+}
+
+.environment-images {
+    display: flex; /* Aligns children (images) in a row */
+    justify-content: center; /* Centers images horizontally */
+    align-items: center; /* Centers images vertically */
+    gap: 20px; /* Adjust as needed - space between images */
+    margin-bottom: 20px; /* Space below the image container */
+}
+
+.environment-figure {
+    max-width: 50%; /* Each figure can take up to half of the container's width */
+    text-align: center; /* Center the content */
+}
+
+.environment-image {
+    width: 90%; /* Make the image responsive within the figure */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.centered-figure {
+    display: block;        /* Block display to allow margin auto to work */
+    text-align: center;    /* Center the content inside */
+    margin: auto;          /* Auto margin for block elements to center */
+}
+
+.centered-figure img {
+    display: block;        /* Ensures the image itself is block level so margin: auto applies */
+    margin: auto;          /* Center the image within the figure */
+    max-width: 50%;       /* Makes the image responsive */
+    height: auto;          /* Maintain aspect ratio */
+}
+
+.centered-figure figcaption {
+    text-align: center;    /* Center-align the caption text */
+}
+
+
+figcaption {
+    color: #666;
+    font-size: 0.9em; 
+    margin-top: 8px; /* Space between image and caption */
+}
+
+table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+.note {
+        font-size: 0.8em;
+        color: #888;
+        margin-left: 10px;
+    }
