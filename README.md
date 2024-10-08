@@ -107,7 +107,43 @@ Please also check our other relevant work on multi-robot connectivity maintenanc
 > [3] Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020.  
 > [4] Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019.
 
+Bibtex:
 
+```latex
+@INPROCEEDINGS{Yang-RSS-24, 
+    AUTHOR    = {Yupeng Yang AND Yiwei Lyu AND Yanze Zhang AND Sha Yi AND Wenhao Luo}, 
+    TITLE     = {{Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2024}, 
+    ADDRESS   = {Delft, Netherlands}, 
+    MONTH     = {July}, 
+    DOI       = {10.15607/RSS.2024.XX.005} 
+} 
+@inproceedings{yang2023minimally,
+  title={Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance},
+  author={Yang, Yupeng and Lyu, Yiwei and Luo, Wenhao},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7684--7690},
+  year={2023},
+  organization={IEEE}
+}
+@inproceedings{luo2020behavior,
+  title={Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems},
+  author={Luo, Wenhao and Yi, Sha and Sycara, Katia},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={9845--9851},
+  year={2020},
+  organization={IEEE}
+}
+@inproceedings{luo2019minimum,
+  title={Minimum k-connectivity maintenance for robust multi-robot systems},
+  author={Luo, Wenhao and Sycara, Katia},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={7370--7377},
+  year={2019},
+  organization={IEEE}
+}
+```
 
 ### Acknowledgements
 This work was supported in part by the U.S. National Science Foundation under Grant CMMI-2301749.
