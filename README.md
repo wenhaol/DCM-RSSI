@@ -94,11 +94,9 @@ Please consider to cite our paper if you find them helpful to your research.
 ```latex 
 @article{yang2024integrating,
   title={Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination},
-  author={Neyland, Edwina},
-  journal={Australasian Journal of Educational Technology},
-  volume={27},
-  number={1},
-  year={2011}
+  author=Yang, Yupeng and Lyu, Yiwei and Zhang, Yanze and Gao, Ian and Luo, Wenhao},
+  journal={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024}
 }
 ```
 Please also check our other relevant work on multi-robot connectivity maintenance: 
