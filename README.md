@@ -92,8 +92,13 @@ In contrast, the video demonstrates that our proposed method consistently ensure
 Please consider to cite our paper if you find them helpful to your research.
 
 ```latex 
-@{article
-
+@article{yang2024integrating,
+  title={Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination},
+  author={Neyland, Edwina},
+  journal={Australasian Journal of Educational Technology},
+  volume={27},
+  number={1},
+  year={2011}
 }
 ```
 Please also check our other relevant work on multi-robot connectivity maintenance: 
