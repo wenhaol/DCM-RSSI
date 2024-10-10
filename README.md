@@ -81,7 +81,7 @@ This repository contains:
 <p align="center"><em>Experiment Video.</em></p>
 
 
-In this video, we compare our approach with the MCCST method [[3]](https://ieeexplore.ieee.org/document/9197429), which employs a disc-based communication model with a fixed communication range. 
+In this video, we compare our approach with the MCCST method [[4]](https://ieeexplore.ieee.org/document/9197429), which employs a disc-based communication model with a fixed communication range. 
 
 For MCCST with a short pre-determined communication range (i.e., 0.7 m), the robots maintain strong connectivity and ensure the required safety. However, due to the limited predefined communication range, the robots' motion is overly constrained by distance-based connectivity control constraints, hindering their ability to perform their original tasks effectively. Conversely, with MCCST using a long pre-determined communication range (i.e., 1.2 m), the robots fail to maintain strong connectivity because the connectivity constraints are not sufficiently enforced at greater distances.
 
@@ -102,48 +102,17 @@ Please consider to cite our paper if you find them helpful to your research.
 ```
 Please also check our other relevant work on multi-robot connectivity maintenance: 
 
-> [1] Yang, Yupeng, Yiwei Lyu, Yanze Zhang, Sha Yi, and Wenhao Luo. "Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty." *Proceedings of Robotics: Science and Systems*, Delft, Netherlands, July 2024.  
-> [2] Yang, Yupeng, Yiwei Lyu, and Wenhao Luo. "Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023.  
-> [3] Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020.  
-> [4] Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019.
+- Yang, Yupeng, Yiwei Lyu, Yanze Zhang, Sha Yi, and Wenhao Luo. "Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty." *Proceedings of Robotics: Science and Systems*, Delft, Netherlands, July 2024. [[bibtex]](https://www.roboticsproceedings.org/rss20/p005.html)
 
-Bibtex:
+- Yang, Yupeng, Yiwei Lyu, and Wenhao Luo. "Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023. [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:UJUB1z10kLMJ:scholar.google.com/&output=citation&scisdr=ClEcIM1wEPyrqbGWeos:AFWwaeYAAAAAZweQYouL-J1CEEn0YN1LvTKxMyE&scisig=AFWwaeYAAAAAZweQYmhrfUgZ95AGGiHiUXx85Ps&scisf=4&ct=citation&cd=-1&hl=en)
 
-```latex
-@INPROCEEDINGS{Yang-RSS-24, 
-    AUTHOR    = {Yupeng Yang AND Yiwei Lyu AND Yanze Zhang AND Sha Yi AND Wenhao Luo}, 
-    TITLE     = {{Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty}}, 
-    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
-    YEAR      = {2024}, 
-    ADDRESS   = {Delft, Netherlands}, 
-    MONTH     = {July}, 
-    DOI       = {10.15607/RSS.2024.XX.005} 
-} 
-@inproceedings{yang2023minimally,
-  title={Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance},
-  author={Yang, Yupeng and Lyu, Yiwei and Luo, Wenhao},
-  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={7684--7690},
-  year={2023},
-  organization={IEEE}
-}
-@inproceedings{luo2020behavior,
-  title={Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems},
-  author={Luo, Wenhao and Yi, Sha and Sycara, Katia},
-  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={9845--9851},
-  year={2020},
-  organization={IEEE}
-}
-@inproceedings{luo2019minimum,
-  title={Minimum k-connectivity maintenance for robust multi-robot systems},
-  author={Luo, Wenhao and Sycara, Katia},
-  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={7370--7377},
-  year={2019},
-  organization={IEEE}
-}
-```
+- Luo, Wenhao, Nilanjan Chakraborty, and Katia Sycara. "Minimally disruptive connectivity enhancement for resilient multi-robot teams." *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2020. [[bibtex]]([https://scholar.googleusercontent.com/scholar.bib?q=info:UJUB1z10kLMJ:scholar.google.com/&output=citation&scisdr=ClEcIM1wEPyrqbGWeos:AFWwaeYAAAAAZweQYouL-J1CEEn0YN1LvTKxMyE&scisig=AFWwaeYAAAAAZweQYmhrfUgZ95AGGiHiUXx85Ps&scisf=4&ct=citation&cd=-1&hl=en](https://scholar.googleusercontent.com/scholar.bib?q=info:RzVfWg7pm0sJ:scholar.google.com/&output=citation&scisdr=ClEcIM1wEPyrqbGXvq0:AFWwaeYAAAAAZweRpq3AWGwttI9hz-o1jsrpWTc&scisig=AFWwaeYAAAAAZweRpkdk1HOVnCh3EGlyhBl5O_Y&scisf=4&ct=citation&cd=-1&hl=en))
+
+- Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020. [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ISYlratL4oEJ:scholar.google.com/&output=citation&scisdr=ClEcIM1wEPyrqbGWk38:AFWwaeYAAAAAZweQi3_ZDkgPUsx5hjbbrLsCVj0&scisig=AFWwaeYAAAAAZweQi-Kd5w8sw_E02VLRdoAFsFc&scisf=4&ct=citation&cd=-1&hl=en)
+
+- Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019. [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:yHdxZxCe6xoJ:scholar.google.com/&output=citation&scisdr=ClEcIM1wEPyrqbGWrOY:AFWwaeYAAAAAZweQtObNJdOe-XF9FxgLfd-W_K4&scisig=AFWwaeYAAAAAZweQtLMbGRyymSj3our_l9zfCeg&scisf=4&ct=citation&cd=-1&hl=en)
+
+
 
 ### Acknowledgements
 This work was supported in part by the U.S. National Science Foundation under Grant CMMI-2301749.
