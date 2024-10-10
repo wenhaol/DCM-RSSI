@@ -110,7 +110,7 @@ Please also check our other relevant work on multi-robot connectivity maintenanc
 
 4. Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Behavior_icra20.html)
 
-5. Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Minimumk_iros19)
+5. Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Minimumk_iros19.html)
 
 
 
