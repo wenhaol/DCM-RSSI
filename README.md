@@ -102,15 +102,15 @@ Please consider to cite our paper if you find them helpful to your research.
 ```
 Please also check our other relevant work on multi-robot connectivity maintenance: 
 
-1. Yang, Yupeng, Yiwei Lyu, Yanze Zhang, Sha Yi, and Wenhao Luo. "Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty." *Proceedings of Robotics: Science and Systems*, Delft, Netherlands, July 2024. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Decentralized_RSS24.html)
+1. Yang, Yupeng, Yiwei Lyu, Yanze Zhang, Sha Yi, and Wenhao Luo. "Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty." *Proceedings of Robotics: Science and Systems*, Delft, Netherlands, July 2024. [[bibtex]](https://wenhaol.github.io/IROS_2024_RSSI/Decentralized_RSS24.html)
 
-2. Yang, Yupeng, Yiwei Lyu, and Wenhao Luo. "Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/los_icra23.html)
+2. Yang, Yupeng, Yiwei Lyu, and Wenhao Luo. "Minimally constrained multi-robot coordination with line-of-sight connectivity maintenance." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023. [[bibtex]](https://wenhaol.github.io/IROS_2024_RSSI/los_icra23.html)
 
-3. Luo, Wenhao, Nilanjan Chakraborty, and Katia Sycara. "Minimally disruptive connectivity enhancement for resilient multi-robot teams." *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2020. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Disruptive_iros20.html)
+3. Luo, Wenhao, Nilanjan Chakraborty, and Katia Sycara. "Minimally disruptive connectivity enhancement for resilient multi-robot teams." *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2020. [[bibtex]](https://wenhaol.github.io/IROS_2024_RSSI/Disruptive_iros20.html)
 
-4. Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Behavior_icra20.html)
+4. Luo, Wenhao, Sha Yi, and Katia Sycara. "Behavior mixing with minimum global and subgroup connectivity maintenance for large-scale multi-robot systems." *2020 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2020. [[bibtex]](https://wenhaol.github.io/IROS_2024_RSSI/Behavior_icra20.html)
 
-5. Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019. [[bibtex]](https://yupengyanguncc.github.io/IROS_2024_RSSI/Minimumk_iros19.html)
+5. Luo, Wenhao, and Katia Sycara. "Minimum k-connectivity maintenance for robust multi-robot systems." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2019. [[bibtex]](https://wenhaol.github.io/IROS_2024_RSSI/Minimumk_iros19.html)
 
 
 
