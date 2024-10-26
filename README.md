@@ -64,7 +64,7 @@ This repository contains:
 
 
 <h3 id="rssi-dataset">RSSI Dataset</h3>
-<p>We have established a point-to-point Received Signal Strength Indicator (RSSI) dataset, which can be found in the <a href="Dataset">dataset folder</a>. Detailed information related to this dataset is available at this <a href="https://wenhaol.github.io/DCM-RSSI/">link</a>. Furthermore, we provide an interactive visualization feature that allows users to click on each transmitter robot position, instantly displaying the corresponding heatmap of RSSI distribution at that specific location. This interactive tool offers a more intuitive understanding of the point-to-point WiFi signal distribution throughout the environment.</p>
+<p>We have established a point-to-point Received Signal Strength Indicator (RSSI) dataset, which can be found in the <a href="Dataset">dataset folder</a>. Detailed information related to this dataset is available at this <a href="https://wenhaol.github.io/DCM-RSSI/">link</a>. The router information can be found <a href="router_info.csv">here</a>. Furthermore, we provide an interactive visualization feature that allows users to click on each transmitter robot position, instantly displaying the corresponding heatmap of RSSI distribution at that specific location. This interactive tool offers a more intuitive understanding of the point-to-point WiFi signal distribution throughout the environment.</p>
 
 
 <p align="center">
