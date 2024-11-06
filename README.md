@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5bab4c10-fa25-4fd0-bd53-2e39f1acba7f" height="300">  
+    <img src="src/flyer.gif" height="300">  
    <p align="center"><em>Fig.1 Project Overview.</em><p>
 </p>
 
