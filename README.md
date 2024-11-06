@@ -76,8 +76,7 @@ This repository contains:
 <h3 id="experiment-video"> Experiment Video</h3>
 
 
-
-<video src="https://youtu.be/77VjrR2leH4"></video>
+<video src="https://github.com/user-attachments/assets/6d2cf733-118d-4183-866f-c2b081b17641"></video>
 <p align="center"><em>Experiment Video.</em></p>
 
 
