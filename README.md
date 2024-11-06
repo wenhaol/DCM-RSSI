@@ -43,7 +43,7 @@
 
 <div align="center">
 
-| <img src="https://github.com/user-attachments/assets/6f2d5d15-e7e2-41a3-89bd-6cfe699e70d6" height="250"> | <img src="https://github.com/user-attachments/assets/1247ce84-c6bb-4aee-9ca4-822a3c11dbcd" height="250"> | <img src="https://github.com/user-attachments/assets/73eb5140-c061-47af-b661-737ad5ff9a9b" height="250"> |
+| <img src="src/figure_a.gif" height="250"> | <img src="src/figure_b.gif" height="250"> | <img src="src/figure_c.gif" height="250"> |
 |:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
 | (a) | (b)  | (c) |
 <p align="center">
@@ -68,7 +68,7 @@ This repository contains:
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/a20a54a1-06e9-40b5-9347-a450627be450" height="300">
+    <img src="src/heatmap.gif" height="300">
    <p align="center"><em>Fig.3 Heatmap of RSSI distribution with different transmitter robot positions.</em></p>
 <p>The GIF illustrates how the received signal strength values shift based on the transmitter robot's position. Each frame represents a heatmap showing the RSSI across the environment, with varying colors depicting the strength of the WiFi signal. 
 
@@ -77,7 +77,7 @@ This repository contains:
 
 
 
-<video src="https://github.com/user-attachments/assets/3466f108-51fc-42f2-bdc8-751a1ca2ab79"></video>
+<video src="https://youtu.be/tdLffjhVHzw"></video>
 <p align="center"><em>Experiment Video.</em></p>
 
 
