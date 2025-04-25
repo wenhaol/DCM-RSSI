@@ -93,8 +93,9 @@ Please consider to cite our paper if you find them helpful to your research.
 ```latex 
 @inproceedings{yang2024integrating,
   title={Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination},
-  author=Yang, Yupeng and Lyu, Yiwei and Zhang, Yanze and Gao, Ian and Luo, Wenhao},
+  author={Yang, Yupeng and Lyu, Yiwei and Zhang, Yanze and Gao, Ian and Luo, Wenhao},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5770--5776},
   year={2024},
   organization={IEEE}
 }
